@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: render
 
 website:
   title: "Mark's Website"
