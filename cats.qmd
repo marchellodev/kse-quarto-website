@@ -5,3 +5,5 @@ title: "More cats"
 
 # This is Stepan
 ![Meow](images/stepan.jpg)
+
+![More pictures of Stepan](images/stepan_2.jpg)
