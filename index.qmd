@@ -1,0 +1,13 @@
+---
+title: "Mark's **Super Professional** Website"
+subtitle: "This website was created at the KSE Summer School. Even though it may not look like it, it is a professional website"
+---
+
+
+# Hey! This is Mark
+I am learning Quarto!
+Quarto is pretty cool, although it is kind of hard.
+
+
+# This is a kitten
+![Meow](images/kitten.jpg)
