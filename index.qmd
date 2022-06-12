@@ -5,8 +5,8 @@ subtitle: "This website was created at the KSE Summer School. Even though it may
 
 
 # Hey! This is Mark
-I am learning Quarto!
-Quarto is pretty cool, although it is kind of hard.
+I am learning Quarto! Quarto is pretty cool, although it is kind of hard.
+Also I am learning Git! Git is fun.
 
 
 # This is a kitten
